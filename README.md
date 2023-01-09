@@ -13,7 +13,7 @@ Installing
 You can install it simply running these commands on your puppetmaster:
 
 ```
-   wget --no-check-certificate -O /usr/local/sbin/clean-puppet-reports https://github.com/algodelinux/clean-puppet-reports/raw/master/clean-puppet-reports 
+   wget --no-check-certificate -O /usr/local/sbin/clean-puppet-reports https://raw.githubusercontent.com/algodelinux/clean-puppet-reports/main/clean-puppet-reports
    chmod 755 /usr/local/sbin/clean-puppet-reports
 ```
 
